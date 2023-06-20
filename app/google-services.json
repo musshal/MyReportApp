@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439975316626",
+    "project_id": "my-report-app-1b242",
+    "storage_bucket": "my-report-app-1b242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439975316626:android:df2c0145980bff5cc36a4b",
+        "android_client_info": {
+          "package_name": "com.dicoding.myreportapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439975316626-tiebkpv8fddkr6jg2a51d4m2h0rmtlqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv9Ux2oKhg_tMWWmzT55jWSii0s2IrnQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439975316626-tiebkpv8fddkr6jg2a51d4m2h0rmtlqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
